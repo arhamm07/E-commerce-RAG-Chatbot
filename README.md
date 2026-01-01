@@ -143,8 +143,8 @@ Example row:
 ---
 
 ## 10) License & authorship 📄
-- License: Apache License 2.0 (see `LICENSE`)
-- Author: Arham Rafique (found in `setup.py`)
+- License: Apache License 2.0 
+- Author: Arham Rafique 
 
 ---
 
@@ -156,10 +156,6 @@ python app.py
 # Visit http://127.0.0.1:5000
 ```
 
-cURL example:
-```bash
-curl -X POST -F "msg=Which bluetooth earbuds have best bass under 2000?" http://127.0.0.1:5000/get
-```
 
 Ingesting again:
 ```bash
@@ -172,5 +168,3 @@ If ingestion fails, check:
 
 ---
 
-If you'd like:
-- I can add more examples, diagrams or CI test instructions.
